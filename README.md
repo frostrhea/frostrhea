@@ -23,7 +23,7 @@
 <!--
 ![frostrhea's GitHub stats](https://github-readme-stats.vercel.app/api?username=frostrhea&show_icons=true&theme=github_dark_dimmed)  
 -->
-<img src="https://raw.githubusercontent.com/frostrhea/frostrhea/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/frostrhea/frostrhea/output/snake.svg" alt="Snake animation"/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frostrhea&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
