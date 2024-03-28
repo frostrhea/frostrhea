@@ -20,7 +20,7 @@
 <!-- badges -->
 #### Badges
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
-    <a href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FJYZ6Rr90SYy34295Cek6Jg%3Fidentity__email%3Dguingao.rheasalve865%2540gmail.com&amp;identity__email=guingao.rheasalve865%40gmail.com" > </a>
+    <a href="https://api.badgr.io/public/assertions/JYZ6Rr90SYy34295Cek6Jg?identity__email=guingao.rheasalve865%40gmail.com"> </a>
         <img width="100px" height="100px" src="https://api.badgr.io/public/assertions/JYZ6Rr90SYy34295Cek6Jg/image">
     <a href="https://api.badgr.io/public/assertions/U17pS5djQ9SDFHCeQsrAbw?identity__email=rheasalve.guingao%40g.msuiit.edu.ph">
         <img width="100px" height="100px" src="https://api.badgr.io/public/assertions/U17pS5djQ9SDFHCeQsrAbw/image"></a>
