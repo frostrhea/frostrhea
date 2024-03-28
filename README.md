@@ -1,5 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=frostrhea.frostrhea" />
-
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=frostrhea.frostrhea" /> 
+-->
 <!-- name -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Rhea❄️;" />
@@ -20,11 +20,10 @@
 <!-- badges -->
 #### Badges
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
-    <a href="https://api.badgr.io/public/assertions/JYZ6Rr90SYy34295Cek6Jg?identity__email=guingao.rheasalve865%40gmail.com"> </a>
-        <img width="100px" height="100px" src="https://api.badgr.io/public/assertions/JYZ6Rr90SYy34295Cek6Jg/image">
+    <a href="https://api.badgr.io/public/assertions/JYZ6Rr90SYy34295Cek6Jg?identity__email=guingao.rheasalve865%40gmail.com"> 
+        <img width="100px" height="100px" src="https://api.badgr.io/public/assertions/JYZ6Rr90SYy34295Cek6Jg/image"></a>
     <a href="https://api.badgr.io/public/assertions/U17pS5djQ9SDFHCeQsrAbw?identity__email=rheasalve.guingao%40g.msuiit.edu.ph">
         <img width="100px" height="100px" src="https://api.badgr.io/public/assertions/U17pS5djQ9SDFHCeQsrAbw/image"></a>
-        
 </blockquote>
 
 <!-- languages -->
