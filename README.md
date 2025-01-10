@@ -23,11 +23,12 @@
 <!-- badges -->
 #### Badges
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
-    <a href="https://api.badgr.io/public/assertions/JYZ6Rr90SYy34295Cek6Jg?identity__email=guingao.rheasalve865%40gmail.com"> 
-        <img width="100px" height="100px" src="https://api.badgr.io/public/assertions/JYZ6Rr90SYy34295Cek6Jg/image"></a>
-    <a href="https://api.badgr.io/public/assertions/U17pS5djQ9SDFHCeQsrAbw?identity__email=rheasalve.guingao%40g.msuiit.edu.ph">
-        <img width="100px" height="100px" src="https://api.badgr.io/public/assertions/U17pS5djQ9SDFHCeQsrAbw/image"></a>
+    <a href="https://api.badgr.io/public/assertions/JYZ6Rr90SYy34295Cek6Jg"> 
+        <img width="100px" height="100px" src="https://api.badgr.io/public/assertions/JYZ6Rr90SYy34295Cek6Jg/image" alt="30 days of Postman - for developers badge"></a>
+    <a href="https://api.badgr.io/public/assertions/U17pS5djQ9SDFHCeQsrAbw">
+        <img width="100px" height="100px" src="https://api.badgr.io/public/assertions/U17pS5djQ9SDFHCeQsrAbw/image" alt="Postman API Fundamentals Student Expert Badge"></a>
 </blockquote>
+
 
 <!-- languages -->
 #### Languages and Tools
