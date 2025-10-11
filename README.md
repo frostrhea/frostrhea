@@ -28,24 +28,23 @@
     <a href="https://api.badgr.io/public/assertions/U17pS5djQ9SDFHCeQsrAbw">
         <img width="100px" height="100px" src="https://api.badgr.io/public/assertions/U17pS5djQ9SDFHCeQsrAbw/image" alt="Postman API Fundamentals Student Expert Badge"></a>
     <a href="https://ai-manifesto.dev"><img src="https://ai-manifesto.dev/badge.svg" alt="ai Manifesto Signee"></a>
+ 
 </blockquote>
 
 
 <!-- languages -->
 #### Languages and Tools
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
-<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
-<img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img align="left" alt="QT Designer" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" />
+|             |                                                                                                                                                                                                                                                                                                                                                                                     |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**           | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)                                                 |
+| **Web / Frameworks**    | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff) ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)                                                                                  |
+| **Databases**           | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff) ![DataGrip](https://img.shields.io/badge/DataGrip-21D789?logo=jetbrains&logoColor=fff) |                                                                                                                                               |
+| **Platform / DevOps**   | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=fff) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)  ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)                                                               |
+| **QA / Tools / Design** | ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff) 
+
+
+        
+          
 <br />
 
 
